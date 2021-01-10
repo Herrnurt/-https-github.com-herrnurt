@@ -20,7 +20,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=herrnurt&layout=compact)
 ## My Repos
 
-[![Global-AI-Hub-practice-project](https://github-readme-stats.vercel.app/api/pin/?username=herrnurt&repo=repo-name)](https://github.com/yourusername/repo-name)
+[![Global-AI-Hub-practice-project](https://github-readme-stats.vercel.app/api/pin/?username=herrnurt&repo=repo-name)](https://github.com/herrnurt/Global-AI-Hub-practice-project)
 
 
 **Languages and Tools:**  
