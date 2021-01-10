@@ -23,16 +23,16 @@
 ## My Repos
 
 
-[![Google-Africa-Developers-2020-Google-Cloud-Platform-Practice-project](https://github-readme-stats.vercel.app/api/pin/?username=herrnurt&repo=Google-Africa-Developers-2020-Google-Cloud-Platform-Practice-project&show_owner=true)](https://https://github.com/Herrnurt/Google-Africa-Developers-2020-Google-Cloud-Platform-Practice-project)
+[![Google-Africa-Developers-2020-Practice-project](https://github-readme-stats.vercel.app/api/pin/?username=herrnurt&repo=Google-Africa-Developers-2020-Google-Cloud-Platform-Practice-project&show_owner=true)](https://https://github.com/Herrnurt/Google-Africa-Developers-2020-Google-Cloud-Platform-Practice-project)
 
-[![DSN-AI-Bootcamp-Qualification-Hackathon-by-Data-Science-Nigeria](https://github-readme-stats.vercel.app/api/pin/?username=herrnurt&repo=DSN-AI-Bootcamp-Qualification-Hackathon-by-Data-Science-Nigeria&show_owner=true)](https://https://github.com/Herrnurt/DSN-AI-Bootcamp-Qualification-Hackathon-by-Data-Science-Nigeria)
+[![DSN-AI-Bootcamp-Qualification-Hackathon](https://github-readme-stats.vercel.app/api/pin/?username=herrnurt&repo=DSN-AI-Bootcamp-Qualification-Hackathon-by-Data-Science-Nigeria&show_owner=true)](https://https://github.com/Herrnurt/DSN-AI-Bootcamp-Qualification-Hackathon-by-Data-Science-Nigeria)
 
 [![coding-interview-university](https://github-readme-stats.vercel.app/api/pin/?username=herrnurt&repo=coding-interview-university&show_owner=true)](https://https://github.com/Herrnurt/coding-interview-university)
 
 
 
 **Languages and Tools:**  
-<code><img height="40" src="https://raw.githubusercontent.com/herrnurt/herrnurt/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/herrnurt/herrnurt/master/assets/python.png"></code>
+<code><img height="40" src="https://www.iconfinder.com/icons/4375050/download/png/512"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
 
 
