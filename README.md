@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Oladipo Bolaji!
 
 <a href="https://twitter.com/herrnurt">
-  <img align="left" alt="Oladipo Bolaji| Twitter" width="21px" src="https://www.stickpng.com/img/icons-logos-emojis/social-media-icons/simple-twitter-logo-in-circle"/>
+  <img align="left" alt="Oladipo Bolaji| Twitter" width="21px" src="https://logodownload.org/twitter-logo/twitter-logo-1/"/>
 </a>
 <a href="https://www.linkedin.com/in/oladipo-bolaji-772110a2/">
   <img align="left" alt="OladipoBolaji | Linkedin" width="21px" src="https://www.iconfinder.com/icons/771370/download/png/512"/>
