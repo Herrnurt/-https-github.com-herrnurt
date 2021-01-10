@@ -13,10 +13,11 @@
 - 🌱 I’m currently learning Machine Learning. I plan to go to Graduate School Fo MS in Machine Learning
 - 📫 How to reach me: <a href="https://twitter.com/herrnurt">@herrnurt</a> 
 
-// README.md
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=herrnurt)
 
 
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=herrnurt&layout=compact)
 ## My Repos
 
 [![Global-AI-Hub-practice-project](https://github-readme-stats.vercel.app/api/pin/?username=herrnurt&repo=repo-name)](https://github.com/yourusername/repo-name)
