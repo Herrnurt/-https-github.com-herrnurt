@@ -13,6 +13,8 @@
 - 🌱 I’m currently learning Machine Learning. I plan to go to Graduate School Fo MS in Machine Learning
 - 📫 How to reach me: <a href="https://twitter.com/herrnurt">@herrnurt</a> 
 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=herrnurt&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=herrnurt)
 
 
@@ -30,5 +32,7 @@
 
 
 **Languages and Tools:**  
+<code><img height="40" src="https://raw.githubusercontent.com/herrnurt/herrnurt/master/assets/jupyter-notebook.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/herrnurt/herrnurt/master/assets/python.png"></code>
 
 
