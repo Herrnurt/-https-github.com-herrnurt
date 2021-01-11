@@ -10,7 +10,8 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning Machine Learning. I plan to go to Graduate School Fo MS in Machine Learning
+- 🌱 I’m currently learning Machine Learning and also on the path of becoming Full Stack Python Developer.
+I seek opportunity to work with Open Source project or do volunteering job or do Internship with AI or ML company.
 - 📫 How to reach me: <a href="https://twitter.com/herrnurt">@herrnurt</a> 
 
 
