@@ -11,7 +11,7 @@
 <br />
 
 - 🌱 I’m currently learning Machine Learning and also on the path of becoming Full Stack Python Developer.
-I seek opportunity to work with Open Source project or do volunteering job or do Internship with AI or ML company.
+I seek opportunity to work with Open Source project or do volunteering job or do Internship any reputable company.
 - 📫 How to reach me: <a href="https://twitter.com/herrnurt">@herrnurt</a> 
 
 
